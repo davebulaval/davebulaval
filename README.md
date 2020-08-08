@@ -1,10 +1,11 @@
 ### Hi there, I'm David - aka davebulaval
 
-## I'm a PhD student, ML research, founder of an AI podcast, and a AI consultant!
-- 🔭 I’m currently working on a my academic research and [Poutyne][poutyne]!
-- 🌱 I’m currently developping my skill in NLP
-- 👯 I’m developping by consulting firm with collegues: [Baseline][baseline]
-- 🥅 I'm also developping a bilingual AI podcast: [OpenLayer][youtube]
+## I’m a Ph.D. student, ML research, founder of an AI podcast, and an AI consultant!
+- 🔭 I’m currently working on my academic research and [Poutyne][poutyne]!
+- 🌱 I’m currently developing my skill in NLP
+- 👯 I’m developing my consulting firm with colleagues: [Baseline][baseline]
+- 🥅 I’m also developing a bilingual AI podcast: [OpenLayer][youtube]
+- :speech_balloon: I’m also developing a bilingual blog site with colleagues: [.Layer](https://www.dotlayer.org/)
 
 ### Connect with me:
 
@@ -33,17 +34,6 @@
 - [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
 - [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
 <!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
