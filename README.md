@@ -28,11 +28,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
+- [OpenLayer - #31 | Antoine Émond-Verreault](https://www.youtube.com/watch?v=4SRsmUugOoE)
+- [OpenLayer - #30 | Guillaume Chevalier](https://www.youtube.com/watch?v=Dn12cnn93tc)
+- [OpenLayer - #29 | Sarah Legendre Bilodeau](https://www.youtube.com/watch?v=LApDdjKtVf4)
+- [OpenLayer - #28 | Charles Gauvin](https://www.youtube.com/watch?v=K8it9EriMV0)
+- [OpenLayer - #27 | Rahat Yasir](https://www.youtube.com/watch?v=WNk52MV7Mzc)
 <!-- YOUTUBE:END -->
 
 ---
