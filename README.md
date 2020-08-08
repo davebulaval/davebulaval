@@ -14,14 +14,12 @@
 [<img align="left" alt="codeSTACKr | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlescholar.svg" />][googlescholar]
 [<img align="left" alt="codeSTACKr | Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/researchgate.svg" />][researchgate]
 
-
 <br />
 
 ### Articles:
 - [A Robust Self-Learning Method for Fully Unsupervised Cross-Lingual Mappings of Word Embeddings: Making the Method Robustly Reproducible as Well](https://arxiv.org/abs/1912.01706)
 - [Leveraging Subword Embeddings for Multinational Address Parsing](https://arxiv.org/abs/2006.16152)
 
-<br />
 <br />
 
 ---
