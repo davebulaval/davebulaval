@@ -17,9 +17,9 @@
 </br>
 
 ### Articles:
-- [A Robust Self-Learning Method for Fully Unsupervised Cross-Lingual Mappings of Word Embeddings: Making the Method Robustly Reproducible as Well](https://arxiv.org/abs/1912.01706)
+- [Generating Intelligible Plumitifs Descriptions: Use Case Application with Ethical Considerations](https://arxiv.org/abs/2011.12183)
 - [Leveraging Subword Embeddings for Multinational Address Parsing](https://arxiv.org/abs/2006.16152)
-
+- [A Robust Self-Learning Method for Fully Unsupervised Cross-Lingual Mappings of Word Embeddings: Making the Method Robustly Reproducible as Well](https://arxiv.org/abs/1912.01706)
 ---
 
 ### 📺 Latest YouTube Videos
