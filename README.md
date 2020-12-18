@@ -7,6 +7,11 @@
 - I’m developing a bilingual AI podcast: [OpenLayer][youtube]
 - I’m developing a bilingual blog site with colleagues: [.Layer](https://www.dotlayer.org/)
 
+## Framework I work on
+- [Poutyne][poutyne]: A simplified framework for PyTorch and handles much of the boilerplating code needed to train neural networks.
+- [Deepparse][deepparse]: A state-of-the-art library for parsing multinational street addresses using deep learning.
+- [notif][notif]: A easy to use package to send notification from a python script.
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -41,3 +46,5 @@
 [poutyne]: https://github.com/GRAAL-Research/poutyne
 [googlescholar]: https://scholar.google.com/citations?user=ntoPgSUAAAAJ&hl=fr
 [researchgate]: https://www.researchgate.net/profile/David_Beauchemin3
+[deepparse]: https://deepparse.org/
+[notif]: https://notificationdoc.ca/
