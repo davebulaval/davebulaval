@@ -1,11 +1,11 @@
 ### Hi there, I'm David - aka davebulaval
 
 ## I’m a Ph.D. student, ML research, founder of an AI podcast, and an AI consultant!
-- 🔭 I’m currently working on my academic research and [Poutyne][poutyne]!
-- 🌱 I’m currently developing my skill in NLP
-- 👯 I’m developing my consulting firm with colleagues: [Baseline][baseline]
-- 🥅 I’m also developing a bilingual AI podcast: [OpenLayer][youtube]
-- :speech_balloon: I’m also developing a bilingual blog site with colleagues: [.Layer](https://www.dotlayer.org/)
+- I’m currently working on my academic research and [Poutyne][poutyne]!
+- I’m currently developing my skill in NLP
+- I’m developing my consulting firm with colleagues: [Baseline][baseline]
+- I’m also developing a bilingual AI podcast: [OpenLayer][youtube]
+- I’m also developing a bilingual blog site with colleagues: [.Layer](https://www.dotlayer.org/)
 
 ### Connect with me:
 
