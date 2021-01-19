@@ -1,7 +1,7 @@
 ### Hi there, I'm David - aka davebulaval
 
 ## I’m a Ph.D. student, ML research, founder of an AI podcast, and an AI consultant!
-- I’m working on my academic research and [Poutyne][poutyne]!
+- I’m working on my academic research, [Poutyne][poutyne] and [Deepparse][deepparse]!
 - I’m developing my skill in NLP
 - I’m developing my consulting firm with colleagues: [Baseline][baseline]
 - I’m developing a bilingual AI podcast: [OpenLayer][youtube]
@@ -43,7 +43,7 @@
 [baseline]: https://baseline.quebec/en/
 [youtube]: https://www.youtube.com/channel/UCB3tYpZ1ojiqAroyDN05Cyw
 [linkedin]: https://www.linkedin.com/in/david-beauchemin-918343108/
-[poutyne]: https://github.com/GRAAL-Research/poutyne
+[poutyne]: https://poutyne.org/
 [googlescholar]: https://scholar.google.com/citations?user=ntoPgSUAAAAJ&hl=fr
 [researchgate]: https://www.researchgate.net/profile/David_Beauchemin3
 [deepparse]: https://deepparse.org/
