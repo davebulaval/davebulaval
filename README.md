@@ -18,10 +18,10 @@
 - [notif][notif]: A easy to use package to send notification from a python script.
 
 ## Presentations I did
-- [Reproductibilité en apprentissage automatique][https://davebulaval.github.io/reproductibilite-en-apprentissage-automatique/]
-- [Configuration and results management with MLflow, Hydra and Poutyne][https://davebulaval.github.io/gestion-configuration-resultats/] (also in French)
-- [Levraging Subword Embeddings for Multinational Address Parsing][https://github.com/davebulaval/LSEMAP-presentation/blob/master]
-- [Detection of Duplicates Among Non-structured Data From Different Data Sources][https://github.com/davebulaval/DDANSDDDS-presentation]
+- [Reproductibilité en apprentissage automatique](https://davebulaval.github.io/reproductibilite-en-apprentissage-automatique/)
+- [Configuration and results management with MLflow, Hydra and Poutyne](https://davebulaval.github.io/gestion-configuration-resultats/) (also in French)
+- [Levraging Subword Embeddings for Multinational Address Parsing](https://github.com/davebulaval/LSEMAP-presentation/blob/master)
+- [Detection of Duplicates Among Non-structured Data From Different Data Sources](https://github.com/davebulaval/DDANSDDDS-presentation)
 
 ## Articles:
 - [Generating Intelligible Plumitifs Descriptions: Use Case Application with Ethical Considerations](https://arxiv.org/abs/2011.12183)
