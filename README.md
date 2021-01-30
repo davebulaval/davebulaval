@@ -22,6 +22,7 @@
 - [Configuration and results management with MLflow, Hydra and Poutyne](https://davebulaval.github.io/gestion-configuration-resultats/) (also in French)
 - [Levraging Subword Embeddings for Multinational Address Parsing](https://github.com/davebulaval/LSEMAP-presentation/blob/master)
 - [Detection of Duplicates Among Non-structured Data From Different Data Sources](https://github.com/davebulaval/DDANSDDDS-presentation)
+- [Bonnes pratiques & Git](https://github.com/davebulaval/bonnes-pratiques-git-material)
 
 ## Articles:
 - [Generating Intelligible Plumitifs Descriptions: Use Case Application with Ethical Considerations](https://arxiv.org/abs/2011.12183)
