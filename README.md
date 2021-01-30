@@ -1,4 +1,9 @@
 ### Hi there, I'm David - aka davebulaval
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="codeSTACKr | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlescholar.svg" />][googlescholar][<img align="left" alt="codeSTACKr | Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/researchgate.svg" />][researchgate]
+
+
+
+<br>
 
 ## I’m a Ph.D. student, ML research, founder of an AI podcast, and an AI consultant!
 - I’m working on my academic research, [Poutyne][poutyne] and [Deepparse][deepparse]!
@@ -12,22 +17,20 @@
 - [Deepparse][deepparse]: A state-of-the-art library for parsing multinational street addresses using deep learning.
 - [notif][notif]: A easy to use package to send notification from a python script.
 
-### Connect with me:
+## Presentations I did
+- [Reproductibilité en apprentissage automatique][https://davebulaval.github.io/reproductibilite-en-apprentissage-automatique/]
+- [Configuration and results management with MLflow, Hydra and Poutyne][https://davebulaval.github.io/gestion-configuration-resultats/] (also in French)
+- [Levraging Subword Embeddings for Multinational Address Parsing][https://github.com/davebulaval/LSEMAP-presentation/blob/master]
+- [Detection of Duplicates Among Non-structured Data From Different Data Sources][https://github.com/davebulaval/DDANSDDDS-presentation]
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlescholar.svg" />][googlescholar]
-[<img align="left" alt="codeSTACKr | Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/researchgate.svg" />][researchgate]
-
-</br>
-
-### Articles:
+## Articles:
 - [Generating Intelligible Plumitifs Descriptions: Use Case Application with Ethical Considerations](https://arxiv.org/abs/2011.12183)
 - [Leveraging Subword Embeddings for Multinational Address Parsing](https://arxiv.org/abs/2006.16152)
 - [A Robust Self-Learning Method for Fully Unsupervised Cross-Lingual Mappings of Word Embeddings: Making the Method Robustly Reproducible as Well](https://arxiv.org/abs/1912.01706)
+
 ---
 
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [OpenLayer - #32 | Virginie Boivin](https://www.youtube.com/watch?v=e6GS-flwJhE)
 - [OpenLayer - #31 | Antoine Émond-Verreault](https://www.youtube.com/watch?v=4SRsmUugOoE)
