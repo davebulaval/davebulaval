@@ -46,7 +46,7 @@
 
 [baseline]: https://baseline.quebec/en/
 [youtube]: https://www.youtube.com/channel/UCB3tYpZ1ojiqAroyDN05Cyw
-[linkedin]: https://www.linkedin.com/in/david-beauchemin-918343108/
+[linkedin]: https://www.linkedin.com/in/david-beauchemin/?locale=en_US
 [poutyne]: https://poutyne.org/
 [googlescholar]: https://scholar.google.com/citations?user=ntoPgSUAAAAJ&hl=fr
 [researchgate]: https://www.researchgate.net/profile/David_Beauchemin3
