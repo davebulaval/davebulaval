@@ -33,11 +33,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [OpenLayer - #33 | Dmitry Petrov](https://www.youtube.com/watch?v=VMZ_Wytc_H4)
 - [OpenLayer - #32 | Virginie Boivin](https://www.youtube.com/watch?v=e6GS-flwJhE)
 - [OpenLayer - #31 | Antoine Émond-Verreault](https://www.youtube.com/watch?v=4SRsmUugOoE)
 - [OpenLayer - #30 | Guillaume Chevalier](https://www.youtube.com/watch?v=Dn12cnn93tc)
 - [OpenLayer - #29 | Sarah Legendre Bilodeau](https://www.youtube.com/watch?v=LApDdjKtVf4)
-- [OpenLayer - #28 | Charles Gauvin](https://www.youtube.com/watch?v=K8it9EriMV0)
 <!-- YOUTUBE:END -->
 
 ---
