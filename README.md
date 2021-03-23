@@ -42,8 +42,7 @@
 ## 📌 GitHub Stats and Top Languages
 
 <p float="center">
-  <img align="left" alt="davebulaval's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=davebulaval&show_icons=true&hide_border=true" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilozel1903&layout=compact&theme=dark" />
+  <img align="left" alt="davebulaval's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=davebulaval&show_icons=true&hide_border=true&theme=dark" />
 </p>
 
 [baseline]: https://baseline.quebec/en/
