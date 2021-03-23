@@ -46,7 +46,7 @@
 - [OpenLayer - #29 | Sarah Legendre Bilodeau](https://www.youtube.com/watch?v=LApDdjKtVf4)
 <!-- YOUTUBE:END -->
 
-## 📌 GitHub Stats and Top Languages
+## 📌 GitHub Stats
 
 <p float="center">
   <img align="left" alt="davebulaval's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=davebulaval&show_icons=true&hide_border=true&theme=dark" />
