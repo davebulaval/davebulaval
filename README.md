@@ -1,6 +1,13 @@
 ### Hi there, I'm David - aka davebulaval
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="codeSTACKr | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlescholar.svg" />][googlescholar][<img align="left" alt="codeSTACKr | Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/researchgate.svg" />][researchgate] [<img align="left" alt="codeSTACKr | ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/orcid.svg" />][ORCID]
+[![Google scholar Badge](https://img.shields.io/badge/davebulaval-follow%20on%20google%20scholar-blue?style=for-the-badge&logo=google-scholar)][googlescholar]
 
+[![Research Gate](https://img.shields.io/badge/davebulaval-follow%20on%20research%20gate-blue?style=for-the-badge&logo=researchgate)][researchgate]
+
+[![LinkedIn Badge](https://img.shields.io/badge/davebulaval-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)][linkedin]
+
+[![YouTube Badge](https://img.shields.io/badge/davebulaval-follow%20on%20youtube-blue?style=for-the-badge&logo=youtube)][youtube]
+
+[![ORCID Badge](https://img.shields.io/badge/davebulaval-follow%20on%20orcid-blue?style=for-the-badge&logo=orcid)][ORCID]
 
 
 <br>
