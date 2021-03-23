@@ -29,7 +29,6 @@
 - [Leveraging Subword Embeddings for Multinational Address Parsing](https://arxiv.org/abs/2006.16152)
 - [A Robust Self-Learning Method for Fully Unsupervised Cross-Lingual Mappings of Word Embeddings: Making the Method Robustly Reproducible as Well](https://arxiv.org/abs/1912.01706)
 
----
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -40,9 +39,12 @@
 - [OpenLayer - #29 | Sarah Legendre Bilodeau](https://www.youtube.com/watch?v=LApDdjKtVf4)
 <!-- YOUTUBE:END -->
 
----
+## 📌 GitHub Stats and Top Languages
 
-<img align="left" alt="davebulaval's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=davebulaval&show_icons=true&hide_border=true" />
+<p float="center">
+  <img align="left" alt="davebulaval's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=davebulaval&show_icons=true&hide_border=true" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilozel1903&layout=compact&theme=dark" />
+</p>
 
 [baseline]: https://baseline.quebec/en/
 [youtube]: https://www.youtube.com/channel/UCB3tYpZ1ojiqAroyDN05Cyw
