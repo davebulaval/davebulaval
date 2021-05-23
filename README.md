@@ -39,11 +39,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [OpenLayer - #36 | Catherine Régis](https://www.youtube.com/watch?v=sOnYAftqAKA)
 - [OpenLayer - #35 | Nadina Galle](https://www.youtube.com/watch?v=0d84SmfNzLA)
 - [OpenLayer - #34 | Renée Cummings](https://www.youtube.com/watch?v=lCLpivdUY8M)
 - [OpenLayer - #33 | Dmitry Petrov](https://www.youtube.com/watch?v=VMZ_Wytc_H4)
 - [OpenLayer - #32 | Virginie Boivin](https://www.youtube.com/watch?v=e6GS-flwJhE)
-- [OpenLayer - #31 | Antoine Émond-Verreault](https://www.youtube.com/watch?v=4SRsmUugOoE)
 <!-- YOUTUBE:END -->
 
 ## 📌 GitHub Stats
